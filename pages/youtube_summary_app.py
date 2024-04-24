@@ -2,7 +2,7 @@
 import my_yt_tran
 import my_text_sum_12
 import streamlit as st
-import openai
+from openai import OpenAI
 import os
 import tiktoken
 import textwrap
