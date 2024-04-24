@@ -1,1 +1,4 @@
 openai
+yt_dlp
+deepl
+os
