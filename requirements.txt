@@ -3,3 +3,4 @@ yt_dlp
 deepl
 tiktoken
 youtube_transcript_api
+PyPDF2
